@@ -22,7 +22,7 @@ func main() {
 	// 	// print out after each variable declaration
 	// 	var1 = "Yo Gopher!"
 	// 	// insert print statement here
-	// 	var2 = 35 + 4673 / 127
+	// 	var2 = 35 + 4673/127
 	// 	var3 = "James Bond"
 	// 	var4 = 3672 - 982 + 1293
 	// 	var5 = true
