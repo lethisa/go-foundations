@@ -1,0 +1,12 @@
+# Question
+
+1 - Ask user for a number input
+
+2 - Suppose, input = 4, then output (using for loops) should be
+
+#
+##
+###
+####
+
+3 - before printing out, check if the input is > 0, if not, ask user to enter a new value and then continue printing.
